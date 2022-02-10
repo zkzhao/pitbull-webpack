@@ -69,7 +69,7 @@
     "eslint-plugin-prettier": "^3.1.2",
     "husky": "^4.2.3",
     "lint-staged": "^10.0.8",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "pont-engine": "1.0.1",
     "prettier": "^1.19.1",
     "pretty-quick": "^2.0.1",
